@@ -53,8 +53,8 @@
 				<%@include file="contact.jsp"%>
 			</c:if>
 
-			<c:if test="${userClickTest == true}">
-				<%@include file="test.jsp"%>
+			<c:if test="${userClickAddUser == true}">
+				<%@include file="addUser.jsp"%>
 			</c:if>
 		</div>
 

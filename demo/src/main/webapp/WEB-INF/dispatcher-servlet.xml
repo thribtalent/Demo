@@ -13,7 +13,7 @@ xmlns="http://www.springframework.org/schema/beans"
    
    
 <context:component-scan base-package="rs.hsk.demo.controller" />
-<context:component-scan base-package="rs.hsk.demobackend.daoimpl" />
+<context:component-scan base-package="rs.hsk.demobackend" />
    <!--Loading static reaources  -->
    <mvc:annotation-driven />
    <mvc:resources location="/assets/" mapping="/resources/**" />   

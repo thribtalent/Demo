@@ -46,7 +46,7 @@ custom styling
 	padding-bottom: 60px; /*height of footer*/
 }
 .footer{
-	position: absolute;
+	position:absolute;
 	bottom:0;
 	height:60px;
 	

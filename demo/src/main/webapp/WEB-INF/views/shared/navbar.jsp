@@ -22,14 +22,14 @@
 					<a class="nav-link" href="${contextRoot}/contact">Contact</a>
 				</li>
 				
-				<li class="nav-item" id="contact">
-					<a class="nav-link" href="${contextRoot}/test">Test</a>
+				<li class="nav-item" id="adduser">
+					<a class="nav-link" href="${contextRoot}/add/user">Add User</a>
 				</li>
 				
 				
 				
 				<li class="nav-item" id="services">
-					<a class="nav-link" href="${contextRoot}/about">Services</a>
+					<a class="nav-link" href="${contextRoot}/add/user">Services</a>
 				</li>
 				
 
